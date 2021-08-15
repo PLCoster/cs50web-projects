@@ -39,7 +39,7 @@ Qwikipedia is a simple wikipedia-style encyclopedia site, built using the Python
 ### Project 3: Mail
 
 A front-end for a single-page email client app, using JavaScript. Users can send, receive, reply and archive emails through the app, which makes API calls to a Django back-end in order to send and receive 'emails', which are stored in an SQL database. 
-- [Github](https://github.com/PLCoster/cs50web-project1-wiki)
+- [Github](https://github.com/PLCoster/cs50web-project3-mail)
 - [Demo](https://youtu.be/SegY_lgchu0)
 
 ### ...more to come!
